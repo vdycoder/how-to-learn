@@ -1,0 +1,10 @@
+.resources__link {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  transition: opacity .5s;
+}
+
+.resources__link:hover {
+  opacity: .5;
+}
